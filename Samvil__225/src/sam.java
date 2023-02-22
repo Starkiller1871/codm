@@ -4,7 +4,7 @@ public class sam {
 	
 	void add()
 	{
-		
+	 res=m+m;	
 	}
 
 	public static void main(String[] args) {
