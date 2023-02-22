@@ -16,7 +16,7 @@ public class sam {
 		System.out.println("hello milk");
 		sam s1= new sam();
 		s1.add();
-		System.out.println();
+		System.out.println("hELLO DADDDY");
 	
 
 	}
